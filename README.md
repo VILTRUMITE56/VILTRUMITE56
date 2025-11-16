@@ -22,7 +22,7 @@ These are my early projects—small but growing! Check them out:
 - **Portal Project**: A lightweight feedback management system that replaces scattered email threads with an organized dashboard.
 - **Movie Player**: A web-based movie streaming application that lets you search for movies and watch them directly in your browser.
 - **Student Management**: A desktop application built with PyQt5 for managing student records, courses, grades, and generating academic reports. -**Game Login System**: A desktop application built with PyQt5 for handling user account, loging in and creating account.
-- **Code Compilation**: Collection of Python projects I built while learning programming fundamentals.
+- **Code Compilation**: Collection of Python projects I built while learning programming fundamentals. -**Static Websites and landing pages**: created several static websites, landing pages, and news webpage.
 - **Others**: Other small projects.
 
 ## 📈 Currently Learning
